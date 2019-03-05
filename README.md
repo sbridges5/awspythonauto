@@ -1,0 +1,2 @@
+# awspythonauto
+aws python
